@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\repositories\\dbinitializerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:repositories\\dbinitializerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\webconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:webconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\aspnetcore_db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:aspnetcore_db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\views\\shared\\customerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:views\\shared\\customerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\models\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:models\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\interfaces\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:interfaces\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\views\\home\\seeddatabase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:views\\home\\seeddatabase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\data\\sqlitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:data\\sqlitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|c:\\users\\matsa\\downloads\\aspnetcore_db (1)\\aspnetcore_db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFF2D37D-A3B8-471F-9C7C-5A02C313F950}|ASPNETCore_DB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T10:59:26.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T10:59:26.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBInitializerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Repositories\\DBInitializerRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\DBInitializerRepo.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Repositories\\DBInitializerRepo.cs",
+              "RelativeToolTip": "Repositories\\DBInitializerRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:26.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:26.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAmwAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:26.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:26.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T10:59:26.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T10:59:26.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T10:59:26.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebConstants.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\WebConstants.cs",
+              "RelativeDocumentMoniker": "WebConstants.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\WebConstants.cs",
+              "RelativeToolTip": "WebConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:40:50.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:26.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ASPNETCore_DB.csproj",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\ASPNETCore_DB.csproj",
+              "RelativeDocumentMoniker": "ASPNETCore_DB.csproj",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\ASPNETCore_DB.csproj",
+              "RelativeToolTip": "ASPNETCore_DB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T10:59:26.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Repositories\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Repositories\\StudentRepo.cs",
+              "RelativeToolTip": "Repositories\\StudentRepo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA8wCQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:26.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Models\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Models\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Models\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "Models\\CustomExceptionFilter.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:26.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomError.cshtml",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Shared\\CustomError.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\CustomError.cshtml",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Shared\\CustomError.cshtml",
+              "RelativeToolTip": "Views\\Shared\\CustomError.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T10:59:26.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "PaginatedList.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\PaginatedList.cs",
+              "RelativeToolTip": "PaginatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:25.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Interfaces\\IStudent.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IStudent.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Interfaces\\IStudent.cs",
+              "RelativeToolTip": "Interfaces\\IStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:26.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T10:59:26.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Interfaces\\IDBInitializer.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDBInitializer.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Interfaces\\IDBInitializer.cs",
+              "RelativeToolTip": "Interfaces\\IDBInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SQLiteDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Data\\SQLiteDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\SQLiteDBContext.cs",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Data\\SQLiteDBContext.cs",
+              "RelativeToolTip": "Data\\SQLiteDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:26.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T10:59:26.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SeedDatabase.cshtml",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Home\\SeedDatabase.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SeedDatabase.cshtml",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Home\\SeedDatabase.cshtml",
+              "RelativeToolTip": "Views\\Home\\SeedDatabase.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T10:59:26.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T10:59:26.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matsa\\Downloads\\ASPNETCore_DB (1)\\ASPNETCore_DB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T10:59:26.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

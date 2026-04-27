@@ -5,11 +5,13 @@ using ASPNETCore_DB.Repositories;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.EntityFrameworkCore;
 
+
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<SQLiteDBContext>(options =>
 options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped<IExceptionFilter, CustomExceptionFilter>();
 builder.Services.AddScoped<IDBInitializer, DBInitializerRepo>();
 builder.Services.AddScoped<IStudent, StudentRepo>();
