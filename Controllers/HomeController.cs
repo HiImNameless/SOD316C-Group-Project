@@ -26,7 +26,7 @@ namespace ASPNETCore_DB.Controllers
 
         public IActionResult SeedDatabase()
         {
-            _seedDatabase.Initialize(_context);
+            //_seedDatabase.Initialize(_context);
             ViewBag.SeedDbFeedback = "Database created and Student Table populated with Data. Check Database folder.";
             return View("SeedDatabase");
         }
