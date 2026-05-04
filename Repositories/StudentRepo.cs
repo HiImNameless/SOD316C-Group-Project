@@ -82,5 +82,11 @@ namespace ASPNETCore_DB.Repositories
             return isExist;
         }
 
+        public Student ByEmail(string id)
+        {
+            var student = _context.Students?.FirstOrDefault(x => x.Email == id);
+            return student;
+        }
+
     }
 }

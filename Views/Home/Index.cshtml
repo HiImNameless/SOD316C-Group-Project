@@ -1,6 +1,13 @@
-﻿@{
+@{
     ViewData["Title"] = "Home Page";
 }
+
+<div class="text-center">
+    <h1>User Logged In Information:</h1>
+    <p>User Id: @ViewData["UserID"]</p>
+    <p>User Name: @ViewData["UserName"]</p>
+    <p>User Role: @ViewData["UserRole"]</p>
+</div>
 
 <div class="container-fluid border-bottom mb-3">
     <h1>Student Management System</h1>

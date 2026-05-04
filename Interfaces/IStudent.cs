@@ -10,5 +10,6 @@ namespace ASPNETCore_DB.Interfaces
         Student Edit(Student student);
         bool Delete(Student student);
         bool IsExist(string id);
+        Student ByEmail(string id);
     }
 }

@@ -5,7 +5,7 @@ namespace ASPNETCore_DB.Data
 {
     public class SQLiteDBContext : DbContext
     {
-        public SQLiteDBContext(DbContextOptions options) : base(options)
+        public SQLiteDBContext(DbContextOptions<SQLiteDBContext> options) : base(options)
         {
         }
 
