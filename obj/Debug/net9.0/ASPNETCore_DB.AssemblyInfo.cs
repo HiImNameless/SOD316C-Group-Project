@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPNETCore_DB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c33b294325d0935bf954dd175c8d5f75194e538b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+329c59df0c8154051c8288a548ae66bb546458c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPNETCore_DB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPNETCore_DB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -100,11 +100,11 @@ namespace ASPNETCore_DB.Controllers
             Student student = new Student();
             string fileName = "DefaultPic.png";
             student.Photo = fileName;
-            student.Email = userEmail;
             return View(student);
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         [Authorize(Roles = "User")]
         public IActionResult Create(Student student)
         {
@@ -130,8 +130,15 @@ namespace ASPNETCore_DB.Controllers
             {
                 throw new Exception("Student record not saved.");
             }
-            Student newStudent = _studentRepo.ByEmail(student.Email);
-            return RedirectToAction("Details", new { id = newStudent.StudentNumber });
+            var studentExist = _studentRepo.ByEmail(this.User.Identity.Name.ToString());
+            if (studentExist != null)
+            {
+                return RedirectToAction("Details", "Student", new { id = studentExist.StudentNumber });
+            }
+            else
+            {
+                return RedirectToAction("Create");
+            }
         }
 
         [HttpGet]
