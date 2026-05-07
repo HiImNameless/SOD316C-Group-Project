@@ -63,7 +63,6 @@ namespace ASPNETCore_DB.Controllers
             return viewResult;
         }
 
-        [Authorize(Roles = "Admin,User")]
         public IActionResult Details(string id)
         {
             ViewResult viewDetail = View();
@@ -98,7 +97,7 @@ namespace ASPNETCore_DB.Controllers
                 return RedirectToAction("Details", new { id = existStudent.StudentNumber });
             }
             Student student = new Student();
-            string fileName = "DefaultPic.png";
+            string fileName = "default.PNG";
             student.Photo = fileName;
             return View(student);
         }
