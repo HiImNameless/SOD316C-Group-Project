@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"e:\\\\Documents\\\\GitHub\\\\SOD316C-Group-Project\" -Recurse -Directory)",
+      "PowerShell(head -50)"
+    ]
+  }
+}

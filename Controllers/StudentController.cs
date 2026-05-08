@@ -110,14 +110,21 @@ namespace ASPNETCore_DB.Controllers
             var files = HttpContext.Request.Form.Files;
             string webRootPath = _webHostEnvironment.WebRootPath;
             string upload = webRootPath + WebConstants.ImagePath;
-            string fileName = Guid.NewGuid().ToString();
-            string extension = Path.GetExtension(files[0].FileName);
-            using (var fileStream = new FileStream(Path.Combine(upload, fileName + extension),
-            FileMode.Create))
+
+            if (files.Count > 0)
             {
-                files[0].CopyTo(fileStream);
+                string fileName = Guid.NewGuid().ToString();
+                string extension = Path.GetExtension(files[0].FileName);
+                using (var fileStream = new FileStream(Path.Combine(upload, fileName + extension), FileMode.Create))
+                {
+                    files[0].CopyTo(fileStream);
+                }
+                student.Photo = fileName + extension;
             }
-            student.Photo = fileName + extension;
+            else
+            {
+                student.Photo = "default.PNG";
+            }
             try
             {
                 if (ModelState.IsValid)
@@ -193,7 +200,7 @@ namespace ASPNETCore_DB.Controllers
             {
                 throw new Exception("Student record not saved.");
             }
-            return RedirectToAction("Index");
+            return RedirectToAction("Details", new { id = student.StudentNumber });
         }
 
         [HttpGet]
