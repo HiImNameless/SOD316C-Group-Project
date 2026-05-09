@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.claude/
+
+*.csproj.user
+*.db-shm
+*.db-wal
+
+_tutorial_dump.txt
